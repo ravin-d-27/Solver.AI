@@ -13,20 +13,25 @@ Step 2: Clone this repository in your system.
 
 Step 3: You need to download the trained model from my Google drive.
 
-Download [Here](https://drive.google.com/drive/folders/1ofe_OEHRpV-myqji7ZqtNEcvF3GBhXzi?usp=sharing)
+**Download [Here](https://drive.google.com/drive/folders/1ofe_OEHRpV-myqji7ZqtNEcvF3GBhXzi?usp=sharing)**
 
 Step 4: Drop the downloaded model in the given file location.
-
+<br><br>
 **Solver.AI/Solver/finder**
+<br>
 Here, paste that trained_bert.dat file
-
+<br><br>
 Step 5: Run the website on your local host.
 
 Go to this path mentioned below
+<br><br>
 **Solver.AI/Solver**
-
+<br><br>
 and type the following commands
+<br>
+<br>
 **django manage.py migrate**
+<br>
 **django manage.py runserver**
 
 
